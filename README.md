@@ -22,7 +22,6 @@
 
 To-do list:
 * Add logged in users name and title to view
-* Add more documentation
 
 ## Getting Started 
 * Command Line - git clone git@github.com:TimHammes/BOOMERANG-BUCKS.git
