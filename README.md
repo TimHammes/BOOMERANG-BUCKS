@@ -25,7 +25,7 @@ To-do list:
 * Add more documentation
 
 ## Getting Started 
-* Command Line - git clone 
+* Command Line - git clone git@github.com:TimHammes/BOOMERANG-BUCKS.git
 * Open Eclipse IDE and select Import from File menu to add project to workspace
 * Type Maven into search bar and select Existing Maven project 
 * Browse to Project Directory and click Finish
