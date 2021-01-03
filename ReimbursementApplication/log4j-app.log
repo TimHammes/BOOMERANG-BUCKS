@@ -1,0 +1,7 @@
+2020-12-27 13:23:42 INFO  AppLogger:36 - Authenticating user...
+2020-12-27 13:23:44 INFO  AppLogger:59 - Authentication Was Succesful
+2020-12-27 13:23:44 INFO  AppLogger:60 - Logged In UserJs32
+2020-12-27 13:23:44 INFO  AppLogger:26 - Requesting Users
+2020-12-27 13:23:44 INFO  AppLogger:33 - Requesting Reimbursements
+2020-12-27 13:23:44 INFO  AppLogger:33 - Returned Users
+2020-12-27 13:23:44 INFO  AppLogger:35 - Returned Reimbursements

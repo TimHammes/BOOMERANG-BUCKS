@@ -1,0 +1,61 @@
+h1 {
+  color: whitesmoke;
+  text-align: center;
+  display: block;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 5em;
+  padding: 5px 5px;
+  margin-bottom: 90px;
+}
+
+h2 {
+  color: #3d7564;
+  text-align: center;
+   text-decoration: underline;
+}
+
+input {
+  color: green;
+}
+
+#create-ticket{
+	display:none;
+}
+
+#login {
+  margin: auto;
+  text-align: center;
+}
+
+#loginBtn{
+	width:100%;
+}
+
+#logoutBtn{
+	position:absolute;
+	right: 100px;
+}
+
+.ctrl-label {
+  width: 150px;
+}
+
+.form-fill {
+  padding: 10px;
+  background-color: #78c2ad;
+  opacity: 0.7;
+}
+
+.whitesmoke {
+  color: whitesmoke;
+}
+
+.form-container {
+  margin: auto;
+  width: 283px;
+  height: 400px;
+}
+
+.my-btn {
+  background-color: #3d7564;
+}
