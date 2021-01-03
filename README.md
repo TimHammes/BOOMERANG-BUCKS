@@ -25,15 +25,15 @@ To-do list:
 * Add more documentation
 
 ## Getting Started 
-> Command Line - git clone 
-> Open Eclipse IDE and select Import from File menu to add project to workspace
-> Type Maven into search bar and select Existing Maven project 
-> Browse to Project Directory and click Finish
-> Download [Tomcat 9](https://tomcat.apache.org/tomcat-9.0-doc/setup.html) to local directory
-> Add Tomcat to Eclipse workspace: Window--preferences--Server--Runtime Environment--Add--Apache--Tomcat version 9
-> Set port: In package explorer find Tomcat server inside Server folder and open Server.xml to change port(if needed)
-> Add Tomcat to project build path: Right click project and select properties--targeted runtimes--Apache Tomcat
-> Open Server view: Window--Other--Server
-> Add project to Tomcat: Right click Tomcat in server view and select 'Add and Remove'. Select project and Add
-> Start up Tomcat Server: Right click Tomcat in server view and select Start
-> Launch project: Right click project in package explorer and select Run As--Run on Server
+* Command Line - git clone 
+* Open Eclipse IDE and select Import from File menu to add project to workspace
+* Type Maven into search bar and select Existing Maven project 
+* Browse to Project Directory and click Finish
+* [Download Tomcat 9 Here](https://tomcat.apache.org/tomcat-9.0-doc/setup.html) to local directory
+* Add Tomcat to Eclipse workspace: Window--preferences--Server--Runtime Environment--Add--Apache--Tomcat version 9
+* Set port: In package explorer find Tomcat server inside Server folder and open Server.xml to change port(if needed)
+* Add Tomcat to project build path: Right click project and select properties--targeted runtimes--Apache Tomcat
+* Open Server view: Window--Other--Server
+* Add project to Tomcat: Right click Tomcat in server view and select 'Add and Remove'. Select project and Add
+* Start up Tomcat Server: Right click Tomcat in server view and select Start
+* Launch project: Right click project in package explorer and select Run As--Run on Server
