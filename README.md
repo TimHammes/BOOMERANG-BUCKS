@@ -36,3 +36,8 @@ To-do list:
 * Add project to Tomcat: Right click Tomcat in server view and select 'Add and Remove'. Select project and Add
 * Start up Tomcat Server: Right click Tomcat in server view and select Start
 * Launch project: Right click project in package explorer and select Run As--Run on Server
+
+##Usage
+![Alt text] (./img/CreateTicketView.jpg?raw=true "Ticket View")
+##License
+This project uses the following license: [GNU General Public License](LICENSE)
