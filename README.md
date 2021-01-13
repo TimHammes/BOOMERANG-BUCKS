@@ -38,7 +38,7 @@ To-do list:
 * Launch project: Right click project in package explorer and select Run As--Run on Server
 
 ## Usage
-![Ticket View](../assets/CreateTicketView.jpg)
+![Ticket View](assets/CreateTicketView.JPG)
 
 ## License
 This project uses the following license: [GNU General Public License](LICENSE)
