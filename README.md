@@ -37,7 +37,8 @@ To-do list:
 * Start up Tomcat Server: Right click Tomcat in server view and select Start
 * Launch project: Right click project in package explorer and select Run As--Run on Server
 
-##Usage
+## Usage
 ![Alt text] (./img/CreateTicketView.jpg?raw=true "Ticket View")
-##License
+
+## License
 This project uses the following license: [GNU General Public License](LICENSE)
