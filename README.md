@@ -38,6 +38,10 @@ To-do list:
 * Launch project: Right click project in package explorer and select Run As--Run on Server
 
 ## Usage
+![Ticket View](assets/LoginPage.JPG)
+![Ticket View](assets/FinanceManagerView.JPG)
+![Ticket View](assets/FinanceManagerViewFiltered.JPG)
+![Ticket View](assets/EmployeeView.JPG)
 ![Ticket View](assets/CreateTicketView.JPG)
 
 ## License
